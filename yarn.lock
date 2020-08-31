@@ -1051,6 +1051,13 @@
     merge-source-map "^1.1.0"
     schema-utils "^2.6.4"
 
+"@ng-stack/forms@^2.2.3":
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/@ng-stack/forms/-/forms-2.2.3.tgz#c2478f9a2f5b35ca27f2cc85c42bd8bb049cb232"
+  integrity sha512-20Y/r+lCb9BmMl2xxZvQHE+FHwGqxckwWrbCKd+aETdIsLPKReyEL5kf1OyYikDry2q0bOUnfICPdzkEv3ouzQ==
+  dependencies:
+    tslib "^2.0.0"
+
 "@ngtools/webpack@10.0.8":
   version "10.0.8"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-10.0.8.tgz#c818415a150ff6d578b25311b97859220b9d5a10"
